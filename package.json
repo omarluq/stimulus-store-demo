@@ -7,7 +7,7 @@
     "autoprefixer": "^10.4.16",
     "esbuild": "^0.19.7",
     "postcss": "^8.4.31",
-    "stimulus-store": "file:../stimulus-store/stimulus-store-0.0.1-beta.tgz",
+    "stimulus-store": "^0.0.1",
     "tailwindcss": "^3.3.5"
   },
   "scripts": {
